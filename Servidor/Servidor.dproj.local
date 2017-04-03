@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/26 23:05:23.000.632,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2017/03/26 23:05:24.000.646,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/03/26 23:05:25.000.985,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/03/26 23:05:26.000.951,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\base64.js</Transaction>
+    <Transaction>2017/03/26 23:05:26.000.993,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.080,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\callbackframework.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.188,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\json2-min.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.210,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.020,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\json2.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.240,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\callbackframework-min.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.146,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\base64-min.js</Transaction>
+    <Transaction>2017/03/26 23:05:27.000.129,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\js\serverfunctions.js</Transaction>
+    <Transaction>2017/03/26 23:05:39.000.020,C:\Users\jorge\Documents\GitHub\AFV\Servidor\FormUnit1.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uFrmPrincipal.pas</Transaction>
+    <Transaction>2017/03/26 23:05:39.000.020,C:\Users\jorge\Documents\GitHub\AFV\Servidor\FormUnit1.dfm=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2017/03/26 23:05:50.000.396,C:\Users\jorge\Documents\GitHub\AFV\Servidor\WebModuleUnit1.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uWebModule.pas</Transaction>
+    <Transaction>2017/03/26 23:05:50.000.396,C:\Users\jorge\Documents\GitHub\AFV\Servidor\WebModuleUnit1.dfm=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uWebModule.dfm</Transaction>
+    <Transaction>2017/03/26 23:06:37.000.714,C:\Users\jorge\Documents\GitHub\AFV\Servidor\ServerMethodsUnit1.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCntPedidos.pas</Transaction>
+    <Transaction>2017/03/26 23:07:15.000.745,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCntPedidos.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCntrPedidos.pas</Transaction>
+    <Transaction>2017/03/26 23:07:49.000.022,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCntrPedidos.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCntrPedido.pas</Transaction>
+    <Transaction>2017/04/02 23:44:01.020,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:44:12.704,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uCliente.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:47:29.260,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:47:34.590,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uEmpresa.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:49:14.019,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:51:03.906,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uProduto.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:51:36.831,=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+    <Transaction>2017/04/02 23:52:29.740,C:\Users\jorge\Documents\GitHub\AFV\Servidor\uVendedor.pas=C:\Users\jorge\Documents\GitHub\AFV\Servidor\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
